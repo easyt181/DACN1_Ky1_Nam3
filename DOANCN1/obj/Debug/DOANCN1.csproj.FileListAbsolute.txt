@@ -1,0 +1,37 @@
+E:\DO AN 1\DOANCN1\DOANCN1\bin\Debug\DOANCN1.exe.config
+E:\DO AN 1\DOANCN1\DOANCN1\bin\Debug\DOANCN1.exe
+E:\DO AN 1\DOANCN1\DOANCN1\bin\Debug\DOANCN1.pdb
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.csproj.AssemblyReference.cache
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.csproj.SuggestedBindingRedirects.cache
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.Properties.Resources.resources
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.csproj.GenerateResource.cache
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.csproj.CoreCompileInputs.cache
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.exe
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.pdb
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmDangNhap.resources
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmGiaoDienQL.resources
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmQLDonHang.resources
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmQLKhachHang.resources
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmQLKhoHang.resources
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmQLUuDai.resources
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmTrangChu.resources
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmDoiMatKhau.resources
+E:\DO AN 1\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmSearch.resources
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\bin\Debug\DOANCN1.exe.config
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\bin\Debug\DOANCN1.exe
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\bin\Debug\DOANCN1.pdb
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.csproj.AssemblyReference.cache
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmDangNhap.resources
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmDoiMatKhau.resources
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmGiaoDienQL.resources
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmQLDonHang.resources
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmQLKhachHang.resources
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmQLKhoHang.resources
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmQLUuDai.resources
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmSearch.resources
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.frmTrangChu.resources
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.Properties.Resources.resources
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.csproj.GenerateResource.cache
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.csproj.CoreCompileInputs.cache
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.exe
+A:\Đồ án chuyên ngành 1-20231008T135708Z-001\Đồ án chuyên ngành 1\DOANCN1 Program\DOANCN1\DOANCN1\obj\Debug\DOANCN1.pdb
